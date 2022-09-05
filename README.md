@@ -1,6 +1,6 @@
 # assets.adsgames.net
 
-[![Maintainability](https://)](https://codeclimate.com/github/AdsGames/assets.adsgames.net/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/119b35ca232bec2b381d/maintainability)](https://codeclimate.com/github/AdsGames/assets.adsgames.net/maintainability)
 
 ## Scripts
 
