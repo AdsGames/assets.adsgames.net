@@ -1,0 +1,23 @@
+.asset-renderer {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.asset-renderer--image {
+  width: 25%;
+  padding: 5px;
+  height: auto;
+}
+
+.asset-renderer--link {
+  width: 100%;
+}
+
+.asset-renderer--audio {
+  width: 100%;
+}
+
+.asset-renderer--audio audio {
+  width: 100%;
+}

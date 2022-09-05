@@ -1,0 +1,41 @@
+.footer {
+  background-color: #2ecc71;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: auto;
+}
+
+.footerText {
+  font-size: 0.9em;
+  margin: 5px 0px;
+  color: #ffffff;
+}
+
+.footerIcons {
+  margin: 0 auto;
+}
+
+.footerIcons a {
+  display: inline-block;
+}
+
+.footerIcons div {
+  width: 32px;
+  height: 32px;
+}
+
+.footerFacebook {
+  background: url("/images/ui.png") 0 -50px !important;
+}
+
+.footerTwitter {
+  background: url("/images/ui.png") -32px -50px !important;
+}
+
+.footerReddit {
+  background: url("/images/ui.png") -64px -50px !important;
+}
+
+.footerGithub {
+  background: url("/images/ui.png") -96px -50px !important;
+}

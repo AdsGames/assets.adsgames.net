@@ -1,0 +1,75 @@
+.menuHome {
+  background-position: -250px 0;
+}
+
+.menuGames {
+  background-position: -150px 0;
+}
+
+.menuContact {
+  background-position: -50px 0;
+}
+
+.menuAssets {
+  background-position: -100px 0;
+}
+
+.menuLearn {
+  background-position: -300px 0;
+}
+
+.menuMembers {
+  background-position: -400px 0;
+}
+
+.menuLinks {
+  background-position: -350px 0;
+}
+
+.menuAbout {
+  background-position: -450px 0;
+}
+
+.menuHome:hover {
+  background-position: -250px -180px;
+}
+.menuGames:hover {
+  background-position: -150px -180px;
+}
+.menuAssets:hover {
+  background-position: -100px -180px;
+}
+.menuLearn:hover {
+  background-position: -300px -180px;
+}
+.menuMembers:hover {
+  background-position: -400px -180px;
+}
+.menuLinks:hover {
+  background-position: -350px -180px;
+}
+.menuAbout:hover {
+  background-position: -450px -180px;
+}
+.menuContact:hover {
+  background-position: -50px -180px;
+}
+
+.navContainer {
+  width: 560px;
+  display: block;
+  margin: 0 auto;
+  height: 50px;
+  overflow: hidden;
+  transition: height 0.2s ease-out;
+}
+
+.navContainer:hover {
+  height: 70px;
+}
+
+.navIcon {
+  height: 50px;
+  background-image: url("/images/ui.png");
+  width: 50px;
+}

@@ -1,0 +1,31 @@
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+.breadcrumb a {
+  color: #6c757d;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  color: #6c757d;
+  text-decoration: underline;
+}
+
+.breadcrumb a:not(:last-child):after {
+  content: "/";
+}
+
+.title {
+  margin: 0;
+  margin-bottom: -0.1rem;
+}
