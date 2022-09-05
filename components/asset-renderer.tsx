@@ -36,13 +36,10 @@ export const AssetRenderer: React.FC<{ assets: AssetStructure }> = ({
       if (asset.path.endsWith(".mp3")) {
         return (
           <div className={styles["asset-renderer--audio"]} key={asset.path}>
-            <Link
-              href={`${BASE_BUCKET}/${asset.path}`}
-              key={asset.path}
-              rel="nofollow"
-              target="_blank"
-            >
-              {name}
+            <Link href={`${BASE_BUCKET}/${asset.path}`} key={asset.path}>
+              <a rel="nofollow" target="_blank">
+                {name}
+              </a>
             </Link>
             <br />
             <audio controls>
