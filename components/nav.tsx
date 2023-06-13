@@ -3,17 +3,17 @@ import styles from "./nav.module.css";
 const NAV_ITEMS = [
   {
     name: "Home",
-    href: "https://adsgames.net",
+    href: "https://www.adsgames.net",
     style: styles.menuHome,
   },
   {
     name: "Games",
-    href: "https://adsgames.net/games",
+    href: "https://www.adsgames.net/games",
     style: styles.menuGames,
   },
   {
     name: "Contact",
-    href: "https://adsgames.net/contact",
+    href: "https://www.adsgames.net/contact",
     style: styles.menuContact,
   },
   {
@@ -23,22 +23,22 @@ const NAV_ITEMS = [
   },
   {
     name: "Learn",
-    href: "https://learn.adsgames.net",
+    href: "https://www.adsgames.net/learn",
     style: styles.menuLearn,
   },
   {
     name: "Members",
-    href: "https://adsgames.net/members",
+    href: "https://www.adsgames.net/auth/login",
     style: styles.menuMembers,
   },
   {
     name: "Links",
-    href: "https://adsgames.net/links",
+    href: "https://www.adsgames.net/links",
     style: styles.menuLinks,
   },
   {
     name: "About",
-    href: "https://adsgames.net/about",
+    href: "https://www.adsgames.net/about",
     style: styles.menuAbout,
   },
 ];
