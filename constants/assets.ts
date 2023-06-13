@@ -1641,10 +1641,6 @@ export const ASSET_FOLDERS: AssetStructure = {
                   name: "brick_top_right.png",
                 },
                 {
-                  path: "images/tiles/64x64/brick_window_1.pdn",
-                  name: "brick_window_1.pdn",
-                },
-                {
                   path: "images/tiles/64x64/brick_window_1.png",
                   name: "brick_window_1.png",
                 },
@@ -1850,10 +1846,6 @@ export const ASSET_FOLDERS: AssetStructure = {
                 {
                   path: "images/tiles/64x64/elevator_shroud_6.png",
                   name: "elevator_shroud_6.png",
-                },
-                {
-                  path: "images/tiles/64x64/enemyshipexplosion3.gif",
-                  name: "enemyshipexplosion3.gif",
                 },
                 {
                   path: "images/tiles/64x64/energydrink.png",
@@ -2302,10 +2294,6 @@ export const ASSET_FOLDERS: AssetStructure = {
                   name: "stained_glass.png",
                 },
                 {
-                  path: "images/tiles/64x64/statue.pdn",
-                  name: "statue.pdn",
-                },
-                {
                   path: "images/tiles/64x64/statue.png",
                   name: "statue.png",
                 },
@@ -2688,16 +2676,6 @@ export const ASSET_FOLDERS: AssetStructure = {
                 {
                   path: "images/tiles/80x80/yellow.png",
                   name: "yellow.png",
-                },
-              ],
-            },
-            {
-              path: "images/tiles/elevator",
-              name: "elevator",
-              children: [
-                {
-                  path: "images/tiles/elevator/elevator.gif",
-                  name: "elevator.gif",
                 },
               ],
             },
