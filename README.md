@@ -2,6 +2,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/119b35ca232bec2b381d/maintainability)](https://codeclimate.com/github/AdsGames/assets.adsgames.net/maintainability)
 
+This project has moved into the main AdsGames repository. You can find it [here](https://github.com/AdsGames/adsgames.net).
+
 ## Scripts
 
 ```
